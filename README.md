@@ -40,7 +40,7 @@ step 9 - run the following commands to initiatie docker and run Apache Superset
 	
 	docker-compose -f docker-compose-non-dev.yml up
 	
-- Thats it ! now you should be able to run Apache Superset on your local brower localhost on port 8080.
+- Thats it ! now you should be able to run Apache Superset on your local brower localhost on port 8088.
 
 -  loging into superset you can use **admin** as username and password.
 
